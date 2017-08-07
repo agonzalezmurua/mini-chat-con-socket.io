@@ -7,7 +7,7 @@ const socket = require('./socket_config')
 // Inicialización de vistas por defecto
 app.set('views', __dirname + '/views');
 
-// Seteo de renderizado de vistas con Jade
+// Seteo de renderizado de vistas con Pug
 app.set('view engine', 'pug');
 
 // Ruta por defecto
