@@ -1,6 +1,6 @@
-# Mini chat con NodeJS y Pug
+# Mini chat con Socket.IO PugJS
 Basado en el tutorial básico de [Socket.IO](https://socket.io/get-started/chat/) es una copia casi exacta con la diferencia
-de que se está utilizando [PUG](https://github.com/pugjs/pug) para generar las vistas
+de que se está utilizando [PugJS](https://github.com/pugjs/pug) para generar las vistas
 
 # Requisitos
 - [NodeJS](https://nodejs.org/en/download/) (Cualquier versión estable desde la 6.X)
